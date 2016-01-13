@@ -141,3 +141,4 @@ pythontex-files-*/
 # WinEdt
 *.bak
 *.sav
+__pycache__
